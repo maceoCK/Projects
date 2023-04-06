@@ -10,7 +10,7 @@ To use this program, follow these steps:
 Download or clone the repository to your local machine.
 Open a terminal or command prompt and navigate to the directory where the project is located.
 Run the program using the following command:
-python player_stats.py
+python FunFootballStats.py
 
 Follow the prompts to enter the player's physical dimensions and other attributes.
 Once all the information has been entered, the program will calculate the stats and save them in a txt file named 'player_stats.txt' in the same directory as the program.
